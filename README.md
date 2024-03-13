@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @Ayotimofe
-- 👀 I’m interested in Web development/ Front-end developer
-- 🌱 I’m currently learning the fundamentals of web development
-- 💞️ I’m looking to collaborate on  Linkedin (https://www.linkedin.com/in/elizabeth-sheba/)
-- 📫 How to reach me ...
-- 😄 Pronouns: She
+# 👋 Hi, I’m @Ayotimofe
+
+Welcome to my GitHub profile!
+
+## 👀 About Me
+
+I'm Ayotimofe, a passionate Front-end Developer interested in all things related to web development. Currently, I'm diving deep into the fundamentals of web development, exploring various technologies, and enhancing my skills to create engaging and user-friendly web experiences.
+
+## 🌱 What I'm Doing
+
+- Learning the fundamentals of web development
+- Exploring new technologies and frameworks in the front-end ecosystem
+
+## 💞️ Collaboration
+
+I'm open to collaborating on interesting projects! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elizabeth-sheba/).
+
+## 📫 Get in Touch
+
+You can reach me via email at [ayotmofemosheba@gmail.com].
+
+## 😄 Pronouns
+
+She/her
+
+Thanks for stopping by!
+
 
 
 <!---
