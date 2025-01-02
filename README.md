@@ -10,6 +10,9 @@ I'm Ayotimofe, a passionate Front-end Developer interested in all things related
 
 - Learning the fundamentals of web development
 - Exploring new technologies and frameworks in the front-end ecosystem
+ ## 💻 What I Work On
+- 🌐 **Languages & Frameworks:** [e.g., JavaScript, Html, CSS, PHP, MYSQL]
+- 📊 **Specialization:** [e.g., Graghic Design, Web Development,]
 
 ## 💞️ Collaboration
 
